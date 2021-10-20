@@ -1,10 +1,10 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyC9TfG5q39JbFdQlduf-8qM9gAOWIpIoGE",
-  authDomain: "fitness-gym-center.firebaseapp.com",
-  projectId: "fitness-gym-center",
-  storageBucket: "fitness-gym-center.appspot.com",
-  messagingSenderId: "537298626865",
-  appId: "1:537298626865:web:936c9a67590bc1e9336810"
-}
+  apiKey: "AIzaSyC9TfG39JbFdQlduf-8qOWIpIoGE",
+  authDomain: "fitnss-gym-center.firebase",
+  projectId: "fitness-gym-cr",
+  storageBucket: "fitss-gym-center.appsp",
+  messagingSenderId: "5372986268",
+  appId: "1:537298626865:web:936c9a67bc1e9336",
+};
 
 export default firebaseConfig;
